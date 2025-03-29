@@ -6,5 +6,6 @@
 5) npm install react-router-dom
 6) npm install sass --save-dev
 7) npm install classnames (Class Dynamic)
+8) npm install normalize.css (Reset CSS)
 
 
