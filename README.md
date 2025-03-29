@@ -7,5 +7,7 @@
 6) npm install sass --save-dev
 7) npm install classnames (Class Dynamic)
 8) npm install normalize.css (Reset CSS)
+9) npm install react-icons
+
 
 
