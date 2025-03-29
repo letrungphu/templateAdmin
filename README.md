@@ -4,5 +4,7 @@
 3) npm run dev
 4) npm install @reduxjs/toolkit react-redux
 5) npm install react-router-dom
+6) npm install sass --save-dev
+7) npm install classnames (Class Dynamic)
 
 
