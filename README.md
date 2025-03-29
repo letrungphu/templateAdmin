@@ -3,4 +3,6 @@
 2) npm install
 3) npm run dev
 4) npm install @reduxjs/toolkit react-redux
+5) npm install react-router-dom
+
 
