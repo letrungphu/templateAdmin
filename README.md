@@ -8,7 +8,7 @@
 7) npm install classnames (Class Dynamic)
 8) npm install normalize.css (Reset CSS)
 9) npm install react-icons
-10) npm install react-pro-sidebar
+11) npm install @reduxjs/toolkit react-redux
 
 
 
