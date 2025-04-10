@@ -9,6 +9,7 @@
 8) npm install normalize.css (Reset CSS)
 9) npm install react-icons
 11) npm install @reduxjs/toolkit react-redux
+12) npm install react-apexcharts apexcharts
 
 
 
